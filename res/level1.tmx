@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="tileset.png" width="160" height="160"/>
+  <tile id="0">
+   <properties>
+    <property name="left" value="16"/>
+    <property name="right" value="16"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="left" value="16"/>
+    <property name="right" value="16"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="game" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztl0sOxCAMQ2HN/e87m1aqEJBiOyQj1VJ2pTxCfrSSV+2yrPr4OH18nLLz1ZKX72bLyFdLXr6ebcVXD5i1Z5t8p1AzbLTv7NsIvhHjST6UcbQ2ks9au4rXSI38nInViok39SCKb8W8K/R8u3xMrK7uZGZIbjH+RPyB5H2/J3LnCAdas5nYfMPKSlVHvXsbm+fPf3j1Ng9GtdSMHlLEJHvGQq61ZPVadEZX8zHmyYjGoNWXFb5n35feffM5Iyikrv393WRT//6NmI93577TjMg8OstFxf7ojIzwKmf0f7YfydsPVg==
+  </data>
+ </layer>
+</map>
